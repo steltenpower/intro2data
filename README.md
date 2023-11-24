@@ -3,6 +3,11 @@ Data moet gaan om menselijke afspraken: betekenis, eenduidigheid, structuur, fle
 
 hieronder ongeveer de 'sheets' (browsertabs) die ik als achtergrond heb gebruikt bij m'n presentatie (vogelvlucht waarmee ik hoop aan te tonen dat INTEROP en USABILITY elkaar versterken en hard nodig zijn) tijdens de LOOWI-middag 10 november 2023
 
+Met repetitief ctrl-click kun je ze achter elkaar openen, beetje als het bedienen van de telegraaf :-)
+Als je zoiets vaker tegenkomt; er zijn ook manieren om die links allemaal tegelijk te openen.
+
+Enjoy!
+
 https://teachyourkidscode.com/wp-content/uploads/2018/12/Teach-Your-Kids-Code-Front-Page-Image-1.jpg
 
 https://www.utwente.nl/en/education/bachelor/programmes/applied-physics/
