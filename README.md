@@ -1,7 +1,7 @@
 # intro2data
 Data moet gaan om menselijke afspraken: betekenis, eenduidigheid, structuur, flexibiliteit. **INTEROP &amp; USABILITY**
 
-hieronder ongeveer de 'sheets' (browsertabs) die ik als achtergrond heb gebruikt bij m'n presentatie (vogelvlucht waarmee ik hoop aan te tonen dat INTEROP en USABILITY elkaar versterken en hard nodig zijn) tijdens de LOOWI-middag 10 november 2023
+hieronder ongeveer de 'sheets' (browsertabs) die ik als achtergrond heb gebruikt bij m'n presentatie (vogelvlucht waarmee ik hoop aan te tonen dat INTEROP en USABILITY elkaar versterken en hard nodig zijn) tijdens de LOOWI-middag 10 november 2023 (een gezelschap bomvol informatievaardigheden, maar nog weinig data vaardigheden)
 
 Met repetitief ctrl-click kun je ze achter elkaar openen, beetje als het bedienen van de telegraaf :-)
 Als je zoiets vaker tegenkomt; er zijn ook manieren om die links allemaal tegelijk te openen.
